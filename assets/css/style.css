@@ -145,6 +145,18 @@ body {
   border-radius: 16px;
 }
 
+.our-activities img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #fff;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
 .contact-section {
   background-color: #eef4f9;
   min-height: 100vh;
